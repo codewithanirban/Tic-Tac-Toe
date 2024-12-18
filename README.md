@@ -4,6 +4,8 @@ Welcome to **Tic Tac Toe**, a console-based game implemented in Python! Test you
 
 ---
 
+![Tic Tac Toe Screenshot](/tic-tac-toe.jpg "Tic Tac Toe")
+
 ## Features:
 - **Two Modes**: Play against the computer or a second player.
 - **AI-Driven Gameplay**: The computer uses a simple algorithm to make intelligent moves.
